@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenvs
+.venv/
+venv/
+forgetradepro/
+
+# Local databases
+*.db
+
+# Local env
+.env
+.env.*
+
+# OS
+.DS_Store
